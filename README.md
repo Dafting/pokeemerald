@@ -1,4 +1,4 @@
-# Pokémon Emerald
+# Pokémon Emerald (Dafting's Branch)
 
 [![Build Status][travis-badge]][travis]
 
